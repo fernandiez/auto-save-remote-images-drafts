@@ -18,6 +18,10 @@ function fetch_images( $post_ID )
 	if ( !current_user_can('edit_post', $post_ID) ) 
 	return;
 
+	//Check if there is already a featured image; if there is, then quit.
+	if ( '' != get_the_post_thumbnail() )
+	return;
+
 	remove_action('save_post', 'fetch_images');	
 		
 	$post = get_post($post_ID);   

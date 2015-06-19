@@ -11,6 +11,9 @@ WordPress plugin for downloading automatically first remote image from a post an
 Based on Auto Save Remote Images plugin by Prebhdev Singh
 https://wordpress.org/plugins/auto-save-remote-images/
 
+No longer overwriting a post existing featured image function included.
+https://github.com/cristoslc/wp-auto-save-remote-image
+
 == Description ==
 
 The purpose of this plugin is very simple - when a post is saved (not published), it will fetch the first remote/external image that is referenced.  The image that is retrieved is then attached to the post as the featured image.  There are no settings to configure.
