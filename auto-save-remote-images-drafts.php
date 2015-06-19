@@ -1,8 +1,8 @@
 <?php  
 /*  
-Plugin Name: Auto Save Remote Image (Drafts Edition)
+Plugin Name: Auto Save Remote Images (Drafts)
 Plugin URI: http://www.fernan.com.es/wordpress/
-Description: This plugin  downloads automatically the first remote image from a post and sets it as the featured image (but only when the post is saved as a draft, nver when publishing). Based on Auto Save Remote Image plugin by Prebhdev Singh http://www.devsaab.com/wordpress/ 
+Description: WordPress plugin for downloading automatically first remote image from a post and setting it as a featured image (only when the post is saved as a draft). Based on Auto Save Remote Image plugin by Prebhdev Singh http://www.devsaab.com/wordpress/ 
 Version: 1.0
 Author: Fernan Díez 
 Disclaimer: No warranty or guarantee of any kind!  Use this in your own risk.  

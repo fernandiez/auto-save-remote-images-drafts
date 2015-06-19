@@ -1,4 +1,4 @@
-=== Auto Save Remote Image (Save Edition) ===
+=== Auto Save Remote Images (Drafts) ===
 Contributors: Fernan Díez
 Donate link: http://www.fernan.com.es/wordpress/
 Tags: auto download, remote image, featured, attachment, save, draft, hotlink, images
@@ -6,10 +6,10 @@ Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 1.0
 
-WordPress plugin for downloading automatically first remote image from a post and setting it a featured image (only when the post is saved as a draft).
+WordPress plugin for downloading automatically first remote image from a post and setting it as a featured image (only when the post is saved as a draft).
 
-Based on Auto Save Remote Image plugin by Prebhdev Singh
-http://www.devsaab.com/wordpress/ 
+Based on Auto Save Remote Images plugin by Prebhdev Singh
+https://wordpress.org/plugins/auto-save-remote-images/
 
 == Description ==
 
