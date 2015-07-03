@@ -1,4 +1,5 @@
 <?php  
+
 /*  
 Plugin Name: Auto Save Remote Images (Drafts)
 Plugin URI: https://github.com/fernandiez/auto-save-remote-images-drafts
