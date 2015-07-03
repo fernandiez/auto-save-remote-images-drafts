@@ -51,7 +51,9 @@ No longer overwriting a post existing featured image function added.
 
 ### How can I collaborate with the plugin code improvement? #
 
-[Auto Save Remote Images (Drafts) Plugin](https://github.com/fernandiez/auto-save-remote-images-drafts/) is also allocated in a Github repository, so you can fork it or add new request or comment issues there.
+[Auto Save Remote Images (Drafts)](https://github.com/fernandiez/auto-save-remote-images-drafts/) is allocated in this Github repository, so you are invited to fork it or add new request or comment issues here.
+
+[Auto Save Remote Images (Drafts)](https://github.com/fernandiez/auto-save-remote-images-drafts/) has been recently allocated in WordPress Plugins repository, so you can also get updates from there and install in your WordPress site through administration panel.
 
 ## Screenshots ##
 
@@ -59,10 +61,10 @@ No configuration section included, so there are no screenshots available so far.
 
 ## Changelog ##
 
-### 1.0 ###
+### 1.0.0 ###
 * Initial release.
 
 ## Upgrade Notice ##
 
-### 1.0 ###
+### 1.0.0 ###
 * Initial release of this plugin.
