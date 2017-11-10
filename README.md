@@ -10,7 +10,7 @@ Requires at least: 3.0.1
 
 Tested up to: 4.8.3
 
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
 License: GPLv2 or later
 
@@ -60,6 +60,11 @@ Please do not use this plugin to violate copyrights. Don't be evil.
 No configuration section included, so there are no screenshots available so far.
 
 ## Changelog ##
+
+### 1.0.3 ###
+
+* Added new information section under Tools menu
+* Adding translation-ready option
 
 ### 1.0.2 ###
 
