@@ -6,11 +6,11 @@ Donate link: http://www.fernan.com.es/
 
 Tags: auto download, remote image, featured, attachment, save, draft, hotlink, images
 
-Requires at least: 3.0
+Requires at least: 3.0.1
 
-Tested up to: 4.2.2
+Tested up to: 4.8.3
 
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 License: GPLv2 or later
 
@@ -60,6 +60,11 @@ Please do not use this plugin to violate copyrights. Don't be evil.
 No configuration section included, so there are no screenshots available so far.
 
 ## Changelog ##
+
+### 1.0.2 ###
+
+* Compatibility with latest version WordPress 4.8.3
+* Adding translation-ready option
 
 ### 1.0.1 ###
 * Just a few text adjustments.
