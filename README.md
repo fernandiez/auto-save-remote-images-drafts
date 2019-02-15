@@ -6,9 +6,9 @@ Donate link: http://www.fernan.com.es/
 
 Tags: auto download, remote image, featured, attachment, save, draft, hotlink, images
 
-Requires at least: 3.0.1
+Requires at least: 4.6
 
-Tested up to: 4.8.3
+Tested up to: 5.0.3
 
 Stable tag: 1.0.5
 
@@ -60,6 +60,19 @@ Please do not use this plugin to violate copyrights. Don't be evil.
 No configuration section included, so there are no screenshots available so far.
 
 ## Changelog ##
+
+### 1.0.8 ###
+
+* Tested up to: 5.0.3
+
+### 1.0.7 ###
+
+* Tested up to: 5.0.1
+
+### 1.0.6 ###
+
+* Text domain fixed
+
 
 ### 1.0.5 ###
 
