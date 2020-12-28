@@ -4,8 +4,8 @@ Contributors: fernandiez
 Donate link: http://www.fernan.com.es/wordpress/
 Tags: auto download, remote image, featured, attachment, save, draft, hotlink, images
 Requires at least: 4.6
-Tested up to: 5.0.3
-Stable tag: 1.0.5
+Tested up to: 5.6
+Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,6 +51,10 @@ Please do not use this plugin to violate copyrights. Don't be evil.
 No configuration section included, so there are no screenshots available so far.
 
 == Changelog ==
+
+= 1.0.9 =
+
+Tested up to: 5.6
 
 = 1.0.8 =
 
