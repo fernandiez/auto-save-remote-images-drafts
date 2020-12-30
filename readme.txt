@@ -52,6 +52,10 @@ No configuration section included, so there are no screenshots available so far.
 
 == Changelog ==
 
+= 1.1.0 =
+
+Tags added
+
 = 1.0.9 =
 
 Tested up to: 5.6
