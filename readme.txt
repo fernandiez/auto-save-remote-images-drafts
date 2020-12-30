@@ -52,6 +52,10 @@ No configuration section included, so there are no screenshots available so far.
 
 == Changelog ==
 
+= 1.1.4 =
+
+Deploy from Github added
+
 = 1.1.1 =
 
 Tags added
